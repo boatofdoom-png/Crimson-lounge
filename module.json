@@ -1,0 +1,16 @@
+{
+  "id": "crimson-lounge",
+  "title": "Crimson Lounge",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "esmodules": [
+    "scripts/license-check.js"
+  ],
+  "description": ""
+}
