@@ -1,7 +1,7 @@
 {
   "id": "crimson-lounge",
   "title": "Crimson Lounge",
-  "description": "A custom Foundry VTT module containing scenes, assets, and scripts for the Crimson Lounge.",
+  "description": "A custom Foundry VTT module containing scenes, assets, and content for the Crimson Lounge.",
   "version": "1.0.0",
   "authors": [
     {
@@ -14,18 +14,11 @@
     "verified": "11"
   },
 
-  "manifest": "https://raw.githubusercontent.com/boatofdoom-png/Crimson-lounge/module.json",
-  "download": "https://raw.githubusercontent.com/boatofdoom-png/Crimson-lounge/main/Crimson-lounge.zip"
-,
-
-  "esmodules": [
-    "Scripts/main.js"
-  ],
+  "manifest": "https://raw.githubusercontent.com/boatofdoom-png/Crimson-lounge/main/module.json",
+  "download": "https://raw.githubusercontent.com/boatofdoom-png/Crimson-lounge/main/Crimson-lounge.zip",
 
   "styles": [],
-
   "packs": [],
-
   "languages": [],
 
   "url": "https://github.com/boatofdoom-png/Crimson-lounge"
