@@ -15,7 +15,8 @@
   },
 
   "manifest": "https://raw.githubusercontent.com/boatofdoom-png/Crimson-lounge/module.json",
-  "download": "https://github.com/boatofdoom-png/Crimson-lounge/Crimson-lounge.zip",
+  "download": "https://raw.githubusercontent.com/boatofdoom-png/Crimson-lounge/main/Crimson-lounge.zip"
+,
 
   "esmodules": [
     "Scripts/main.js"
