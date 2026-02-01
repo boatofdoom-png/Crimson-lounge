@@ -1,0 +1,50 @@
+{
+  "id": "crimson-lounge-cartorium",
+  "title": "Crimson Lounge Cartorium",
+  "description": "An adventure and scene pack for the Crimson Lounge.",
+  "version": "1.0.0",
+  "library": false,
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Cartorium",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/boatofdoom-png/Crimson-lounge",
+  "manifest": "https://raw.githubusercontent.com/boatofdoom-png/Crimson-lounge/main/module.json",
+  "download": "https://github.com/boatofdoom-png/Crimson-lounge/releases/latest/download/crimson-lounge-cartorium.zip",
+  "icon": "crimson-lounge.jpg",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Pack 1",
+      "path": "packs/pack-1",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "pack-2",
+      "label": "Pack 2",
+      "path": "packs/pack-2",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
